@@ -1,2 +1,2 @@
-# reactclosure
+# JSClosure
 Created with CodeSandbox
